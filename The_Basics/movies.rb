@@ -1,4 +1,4 @@
-#Exercise 3
+# Exercise 3
 
 movies = {  psycho: 1960,
             the_exorcist: 1973,

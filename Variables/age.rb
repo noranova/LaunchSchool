@@ -1,4 +1,4 @@
-#Exercise 2
+# Exercise 2
 
 puts "Please enter your age:"
 
